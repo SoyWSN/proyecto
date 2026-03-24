@@ -1,3 +1,7 @@
-- FUNCIONALIDES DEL SISTEMA
 
-- api principal del sistema
+Funcionalidades del sistema:
+- Login
+- Dashboard
+- Base de datos
+- API
+- UI
