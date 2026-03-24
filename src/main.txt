@@ -1,1 +1,1 @@
-Archivo principal
+Funcionalidad: Interfaz de usuario del sistema
