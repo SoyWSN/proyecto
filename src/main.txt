@@ -1,7 +1,4 @@
-Funcionalidades del sistema:
-- Login
-- Dashboard
-- Base de datos
-- API
-- UI
 
+-Funcionalidades del sistema:
+
+-INTERFAZ DE USUARIO
